@@ -1,13 +1,23 @@
-Part 5
-My prediction:
+Dart OOP Assignment: Kigali Bus Card
+Name: Umutoni Yvete
+Student ID: 27019
 
-1 5
-
-Why?
-
-Bag starts with 0 items.
-add() increases items by 1.
-Setting items to -5 is rejected by the setter.
-BigBag.add() calls super.add() twice, so each call adds 2 items.
-Two calls to add() make the value 4.
-Adding 1 more makes it 5.
+My numbers
+D = 19
+L = 9
+Starting balance = 1190 RWF
+Bus fare = 219 RWF
+Student discount = 19%
+Output of main.dart
+Error: name too short
+Owner: Ama | Balance: 1190 RWF
+Owner: Umutoni Yvete | Balance: 1190 RWF
+Error: top-up must be 500 to 50000 RWF
+Topped up 2000 RWF
+Paid 219 RWF
+Paid 219 RWF
+Owner: Umutoni Yvete | Balance: 2752 RWF
+Student discount: 41 RWF
+Paid 178 RWF
+Owner: Umutoni Yvete | Balance: 1012 RWF
+Student card: 19% off
