@@ -37,7 +37,9 @@ class BusCard {
   }
 
   void pay(int fare) {
-    if (fare > _balance) {
+    if (fare <= 0) {
+      print('Error: fare must be greater than 0 RWF');
+    } else if (fare > _balance) {
       print('Card declined');
     } else {
       _balance = _balance - fare;
