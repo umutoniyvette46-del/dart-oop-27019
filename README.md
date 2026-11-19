@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dart OOP Assignment: Kigali Bus Card
 Name: Umutoni Yvete
 Student ID: 27019
@@ -21,3 +22,6 @@ Student discount: 41 RWF
 Paid 178 RWF
 Owner: Umutoni Yvete | Balance: 1012 RWF
 Student card: 19% off
+=======
+# dart-oop-27019
+>>>>>>> 91c4a111bb698c3f8a31c78afeeb653468b28410
