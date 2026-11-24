@@ -94,3 +94,11 @@ Recommended tags: `v1-phase1`, `v2-phase2`, `v3-phase3`, `v4-phase4`, and `v5-ph
 - The goal cards are intentionally hard-coded.
 - Do not include Phase 2–5 functionality on this branch.
 - Add a screenshot of the running app under `screenshots/` before submission.
+
+## Group Members (Student IDs)
+
+- 18978/2022
+- 26540/2024
+- 27019/2024
+- 26703/2024
+- 27283/2024
