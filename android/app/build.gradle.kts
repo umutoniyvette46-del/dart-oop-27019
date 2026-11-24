@@ -7,6 +7,7 @@ plugins {
 android {
     namespace = "com.example.my_study_planner"
     compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
