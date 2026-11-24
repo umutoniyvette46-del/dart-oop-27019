@@ -1,5 +1,5 @@
 name: study_planner
-description: A beginner-friendly Flutter project for the Phase 1 static screen assessment.
+description: A beginner-friendly Flutter project for the Phase 2 working list assessment.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -10,6 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
   material_ui: ^1.11.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
 
 flutter:
   uses-material-design: true
