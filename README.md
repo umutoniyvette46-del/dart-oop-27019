@@ -79,3 +79,11 @@ Part 2 and 3: StudentCard and main
 Part 4: bug hunt fixed
 Part 5: prediction
 Part 5: real output and README
+
+My Study Planner (Flutter)
+--------------------------
+The Flutter app is in `lib/`. It lets students create, complete, and delete study
+goals, tracks study statistics, and saves goals in a local SQLite database.
+
+Run `flutter pub get`, then `flutter run` on an Android emulator or iOS simulator.
+The database helper creates `goals.db` and the `goals` table on first launch.
