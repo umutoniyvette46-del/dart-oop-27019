@@ -107,3 +107,11 @@ Recommended phase tags: `v1-phase1`, `v2-phase2`, `v3-phase3`, `v4-phase4`, and 
 - The floating action button adds a sample goal; entering custom goals is reserved for Phase 4.
 - Statistics and persistence are intentionally deferred to later phases.
 - Capture the required screenshots and add them under `screenshots/` before submission.
+
+## Group Members (Student IDs)
+
+- 18978/2022
+- 26540/2024
+- 27019/2024
+- 26703/2024
+- 27283/2024
